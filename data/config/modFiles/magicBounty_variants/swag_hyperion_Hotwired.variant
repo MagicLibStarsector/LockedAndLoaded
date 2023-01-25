@@ -1,0 +1,39 @@
+{
+    #Example if you want to create s-modded variants that also contain d-mods for your bounties
+    "displayName": "Hotwired",
+    "fluxCapacitors": 8,
+    "fluxVents": 10,
+    "hullId": "hyperion",
+    "hullMods": [
+        "safetyoverrides", #Add hullmods in this specific order: hullmods you want s-modded, then d-mods, then normal mods. This is what "worked for me"
+        "unstable_injector",
+        "ill_advised",
+        "extendedshieldemitter",
+        "hardened_subsystems",
+    ],
+    "permaMods": [
+        "safetyoverrides", #in this list, put them in the same order as you have above, without normal mods. If you put normal mods in here, they will act as built-in the base hull
+        "unstable_injector",
+        "ill_advised",
+    ],
+    "sMods": [
+        "safetyoverrides", #You only add the hullmods you want as s-mods. S-modded Safety Overrides, are you cool yet?
+        "unstable_injector"
+    ],
+    "variantId": "swag_hyperion_Hotwired", #Keep the variantId the same as the file name
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "miningblaster",
+                "WS 002": "miningblaster"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 003": "typhoon"}
+        }
+    ]
+}

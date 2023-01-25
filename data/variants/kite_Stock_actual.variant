@@ -1,0 +1,13 @@
+{
+    "displayName": "Stock",
+    "fluxCapacitors": 10,
+    "fluxVents": 5,
+    "hullId": "kite_original",
+    "hullMods": [
+        "blast_doors"
+    ],
+    "permaMods": [],
+    "quality": 0.75,
+    "variantId": "kite_Stock_actual",
+    "weaponGroups": []
+}

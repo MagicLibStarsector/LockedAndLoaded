@@ -1,0 +1,53 @@
+{
+    "displayName": "Burst",
+    "fluxCapacitors": 11,
+    "fluxVents": 30,
+    "hullId": "dominator",
+    "hullMods": [
+        "missleracks",
+        "ballistic_rangefinder"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "LaL_dominator_burst",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 014": "harpoonpod",
+                "WS 015": "harpoonpod",
+                "WS 016": "harpoonpod"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 012": "mark9",
+                "WS 013": "mark9"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "lightneedler",
+                "WS 004": "lightneedler",
+                "WS 005": "lightneedler"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "vulcan",
+                "WS 007": "vulcan",
+                "WS 008": "vulcan",
+                "WS 009": "vulcan",
+                "WS 010": "dualflak",
+                "WS 011": "dualflak"
+            }
+        }
+    ]
+}

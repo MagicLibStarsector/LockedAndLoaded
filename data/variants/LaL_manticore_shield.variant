@@ -1,0 +1,41 @@
+{
+    "displayName": "Shield cracker",
+    "fluxCapacitors": 4,
+    "fluxVents": 20,
+    "hullId": "manticore",
+    "hullMods": [
+        "hardenedshieldemitter",	
+        "fluxbreakers"
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+	],
+    "sMods": [
+        "hardenedshieldemitter",
+	],
+    "variantId": "LaL_manticore_shield",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 000": "multineedler"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "typhoon",
+                "WS 005": "typhoon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "vulcan",
+                "WS 002": "vulcan",
+                "WS 003": "vulcan"
+            }
+        }
+    ]
+}

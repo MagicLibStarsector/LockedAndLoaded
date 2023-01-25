@@ -1,0 +1,57 @@
+Locked and Loaded
+
+0.12.1
+Fixed some bounties using the Neutral faction instead of ML_Bounty faction.
+
+0.12
+
+Fixed yet another bunch of small mistakes such as typos in the factions or variants IDs.
+Some minor improvements to the bounty texts.
+
+0.11
+
+[RC2]
+Fixed a typo in a ship variant.
+Updated captain skill priotities for several bounties.
+Added:
+"tart_rogue"
+
+Updated to MagicLib 0.41
+Several bounties now have devious flagship loadouts.
+Added:
+"tart_takeover"
+"tart_diversion"
+
+0.10
+
+[RC2]
+Fixed some typos and missing elements (blacklists, variants etc)
+Added:
+"alexatheos_culann_scavs"
+
+Initial release:
+
+"tart_upstart"
+"tart_competition"
+"tart_organs"
+"tart_searchlight"
+"tart_cleanup"
+"tart_attention"
+"tart_head"
+"wisp_find_fubar"
+"avan_devilish_astronauts" (requires Diable Avionics)
+"alexatheos_cruor_penal"
+"klaw_rogue_tt_fleet"
+"alexatheos_derelict_researcher"
+"alexatheos_serrots_wild_ride"
+"jrg_gens_baby"
+"wisp_corpEsp_I"
+"wisp_corpEsp_II"
+"wisp_corpEsp_III"
+"wisp_corpEsp_IV"
+"wisp_corpEsp_V-a"
+"wisp_corpEsp_V-b"
+"nuke_kill_a_poet"
+"nuke_break_Nova_Maxios"
+"swag_redline"
+"nuke_directors_cut_vic" (requires VIC)

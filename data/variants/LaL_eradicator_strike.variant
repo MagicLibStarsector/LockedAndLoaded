@@ -1,0 +1,71 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 18,
+    "fluxVents": 30,
+    "goalVariant": false,
+    "hullId": "eradicator",
+    "hullMods": [
+        "heavyarmor",
+        "reinforcedhull",
+        "unstable_injector",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "reinforcedhull",
+	],
+    "sMods": [
+        "heavyarmor",
+        "reinforcedhull",
+	],
+    "variantId": "LaL_eradicator_strike",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "heavymortar",
+                "WS 007": "heavymortar"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "heatseeker",
+                "WS 001": "heatseeker",
+                "WS 002": "heatseeker",
+                "WS 003": "heatseeker",
+                "WS 004": "heatseeker"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "railgun",
+                "WS 011": "railgun"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "railgun",
+                "WS 010": "railgun"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 006": "dualflak"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "vulcan",
+                "WS 014": "vulcan"
+            }
+        }
+    ]
+}

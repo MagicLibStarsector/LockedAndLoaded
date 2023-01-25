@@ -1,0 +1,48 @@
+{
+    "displayName": "Exploration",
+    "fluxCapacitors": 6,
+    "fluxVents": 30,
+    "hullId": "apogee",
+    "hullMods": [
+        "dedicated_targeting_core",
+	"solar_shielding",
+	"auxiliary_fuel_tanks"
+    ],
+    "permaMods": [],
+    "variantId": "lal_apogee_Exploration",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 008": "hil"}
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {"WS 009": "hammerrack"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 005": "heatseeker"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pdlaser",
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 004": "pdlaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "mininglaser",
+                "WS 007": "mininglaser"
+            }
+        }
+    ]
+}

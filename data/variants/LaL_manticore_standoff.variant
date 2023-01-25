@@ -1,0 +1,45 @@
+{
+    "displayName": "Stand-off",
+    "fluxCapacitors": 3,
+    "fluxVents": 20,
+    "hullId": "manticore",
+    "hullMods": [
+        "missleracks",
+		"targetingunit"
+	],
+    "permaMods": [
+        "missleracks",
+	],
+    "sMods": [
+        "missleracks",
+	],
+    "variantId": "LaL_manticore_standoff",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 000": "gauss"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "annihilatorpod",
+                "WS 005": "annihilatorpod"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightag",
+                "WS 003": "lightag"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 002": "vulcan"}
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lockedAndLoaded",
+  "name": "Locked and Loaded",
+  "author": "Modding Community",
+  "utility": "true",
+  "version": { "major": "0", "minor": "12", "patch": "1" },
+  "description": "A professional underground network of mercs, assassins and guns-for-hire looking for jobs.\n\nThanks to all contributors: AlexAtheos, Avanitia, JRG, NuclearStudent, psiklaw, Swagumenium, Wisp",
+  "gameVersion": "0.95.1a-RC6",
+  "dependencies": [
+    {
+      "id": "MagicLib",
+      "name": "MagicLib",
+      "version": { "major": "0", "minor": "42", "patch": "0" }
+    },
+  ],
+}

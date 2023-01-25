@@ -1,0 +1,10 @@
+{
+    "graphics":{
+        "characters":{
+            #"portraitId":"graphics/locknloaded/portraits/lnl_yourCaptainPortrait.png",
+			"vanilla_pirate14":"graphics/portraits/portrait14.png",
+            # klaw_rogue_tt_fleet
+            "vanilla_portrait35":"graphics/portraits/portrait35.png",
+        },
+    },
+}

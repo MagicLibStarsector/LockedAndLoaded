@@ -1,0 +1,63 @@
+{
+    "displayName": "Hammer",
+    "fluxCapacitors": 3,
+    "fluxVents": 50,
+    "hullId": "legion_xiv",
+    "hullMods": [
+        "targetingunit",
+        "missleracks",
+        "hardenedshieldemitter"
+    ],
+    "permaMods": [
+        "targetingunit",
+        "missleracks",
+        "hardenedshieldemitter"
+    ],
+    "sMods": [
+        "targetingunit",
+        "missleracks",
+        "hardenedshieldemitter"
+    ],
+    "variantId": "LaL_legion_xiv_hammer",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "hveldriver",
+                "WS 003": "hveldriver",
+                "WS 004": "hveldriver",
+                "WS 005": "hveldriver",
+                "WS 007": "hveldriver"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "squall",
+                "WS 001": "squall"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "vulcan",
+                "WS 009": "vulcan",
+                "WS 014": "vulcan",
+                "WS 015": "vulcan",
+                "WS 018": "vulcan",
+                "WS 019": "vulcan",
+                "WS 020": "vulcan",
+                "WS 021": "vulcan"
+            }
+        }
+    ],
+    "wings": [
+        "perdition_wing",
+        "perdition_wing",
+        "perdition_wing",
+        "perdition_wing"
+    ]
+}

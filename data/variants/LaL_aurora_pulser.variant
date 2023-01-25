@@ -1,0 +1,51 @@
+{
+    "displayName": "Pulse",
+    "fluxCapacitors": 27,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "aurora",
+    "hullMods": [
+        "frontemitter",
+        "hardenedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "LaL_aurora_pulser",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "pulselaser",
+                "WS 010": "irpulse",
+                "WS 011": "ioncannon",
+                "WS 012": "irpulse",
+                "WS 013": "ioncannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "pulselaser",
+                "WS 008": "pulselaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 006": "heavyburst"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pdlaser",
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 004": "pdlaser",
+                "WS 005": "pdlaser"
+            }
+        }
+    ]
+}
