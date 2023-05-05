@@ -1,0 +1,16 @@
+.psd$
+.kra$
+.ai$
+.afphoto$
+^.idea
+^.circleci
+DO_NOT_USE
+.gitignore
+.gradle
+^gradle
+.flac$
+^.github/
+banner.png$
+
+.run
+junkdrawer
