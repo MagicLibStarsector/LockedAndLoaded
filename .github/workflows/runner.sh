@@ -2,7 +2,7 @@
 
 ### Edit
 # Your mod name. The version number will be attached to this to form "My-Mod-1.0.0"
-MOD_FOLDER_NAME=Persean-Chronicles
+MOD_FOLDER_NAME=Locked-and-Loaded
 ###
 
 
