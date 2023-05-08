@@ -2,7 +2,8 @@
 
 ### Edit
 # Your mod name. The version number will be attached to this to form "My-Mod-1.0.0"
-MOD_FOLDER_NAME=Locked-and-Loaded
+MOD_FOLDER_NAME="Locked-and-Loaded"
+echo "Folder name (without version) will be $MOD_FOLDER_NAME"
 ###
 
 
