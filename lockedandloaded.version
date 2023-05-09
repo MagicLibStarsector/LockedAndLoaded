@@ -3,6 +3,7 @@
   "modName": "Locked and Loaded",
   "modThreadId": "23129",
   #"modNexusId": "10",
+  "directDownloadURL": "https://github.com/MagicLibStarsector/LockedAndLoaded/releases/download/0.13.0-rc3/Locked-and-Loaded-0.13.0-rc3.zip",
   "modVersion":
     {
       "major": "0",
