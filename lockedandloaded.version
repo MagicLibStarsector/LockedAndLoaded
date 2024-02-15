@@ -1,12 +1,13 @@
 {
   "masterVersionFile": "https://raw.githubusercontent.com/MagicLibStarsector/LockedAndLoaded/main/lockedandloaded.version",
+  "directDownloadURL": "https://github.com/MagicLibStarsector/LockedAndLoaded/releases/latest/download/Locked-and-Loaded.zip",
   "modName": "Locked and Loaded",
   "modThreadId": "23129",
   #"modNexusId": "10",
   "modVersion":
     {
-      "major": "0",
-      "minor": "13",
+      "major": "1",
+      "minor": "0",
       "patch": "0"
     }
 }
