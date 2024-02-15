@@ -4,7 +4,7 @@
 # Run from within the
 # ./zipMod.sh "folderToZip" "outputFolderName"
 #   arg folderToZip: The folder containing mod_info.json.
-#   arg outputFolderName: Do not append the version, it will be appended to the .zip.
+#   arg outputFolderName:
 
 folderToZip=$1
 outputFolderName=$2
@@ -15,7 +15,7 @@ echo "Location of folder to zip:" $(realpath $1)
 
 cd $folderToZip
 version=$(git describe --tags)
-zipName=$outputFolderName-$version.zip
+zipName=$outputFolderName.zip
 
 echo "Version: $version"
 
