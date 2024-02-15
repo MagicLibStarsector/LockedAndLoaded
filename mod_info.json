@@ -5,7 +5,7 @@
   "utility": "true",
   "version": { "major": "0", "minor": "13", "patch": "0" },
   "description": "A professional underground network of mercs, assassins and guns-for-hire looking for jobs.\n\nThanks to all contributors: AlexAtheos, Avanitia, JRG, NuclearStudent, psiklaw, Swagumenium, Wisp",
-  "gameVersion": "0.96a-RC7",
+  "gameVersion": "0.97a-RC10",
   "dependencies": [
     {
       "id": "MagicLib",
