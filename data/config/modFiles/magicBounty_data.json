@@ -1906,4 +1906,43 @@
 		"location_prioritizeUnexplored": false,
 		"location_defaultToAnyEntity": true
 	},
+	  "histidine_missile": {
+        "trigger_min_fleet_size": 50,
+        "job_name": "Reject modernity, embrace tradition",
+        "job_description": "We represent an association of missile manufacturers in the Sector, producing classics such as the Harpoon MRM (the Sector's most popular anti-ship missile) and the Reaper-class torpedo (\"destructive power still unmatched after 200 cycles\").\n\nUnfortunately our market success does not extend to the Persean League, where a gens-owned monopoly enjoys exclusive supply of the newfangled \"==directed-energy missiles==\" to the Fleet Armamentarium. We wish to correct this anti-competitive state of affairs, and we believe an opportunity for this has arisen.\n\nReliable intelligence places a Fleet detachment from Kazeron in orbit around ==$location==, doing what Reynard Hannan's League does best: shaking down independent traffic in a blatant intimidation attempt to extract trade concessions. Take out this fleet and show the Armamentarium that its fancy lightshows are not all they're cracked up to be. This should give us a toe in the door to negotiate a more level playing field for our products.",
+        "job_comm_reply": "The $faction $rank gives you a sinister smirk. \"Foolish little pirate, a thousand ships of the Persean League descend upon you. Our missiles will illuminate the night!\"\n\nBefore you can say the comeback \"Then we shall fight in the light\", the comm image blinks out, leaving the spinning crest of the League Fleet.",
+        "job_intel_success": "Your employers transmit a brief message: \"Thank you for your assistance in this matter. We hope you enjoy the complimentary products we have sent to your fleet.\"",
+        "job_forFaction": "independent",
+        "job_credit_reward": 150000,
+        "job_reward_scaling": 1,
+        "job_reputation_reward": 5,
+        "job_item_reward": {
+            "cyclone": 2,
+            "squall": 2,
+            "hurricane": 2,
+            "locust": 2
+        },
+        "job_type": "neutralisation",
+        "job_show_fleet": "presetText",
+        "job_show_distance": "exact",
+        "target_rank": "spaceAdmiral",
+        "target_post": "fleetCommander",
+        "target_personality": "aggressive",
+        "target_level": 6,
+        "target_skill_preference": "YES_ENERGY_YES_BALLISTIC_YES_MISSILE_NO_DEFENSE",
+        "fleet_name": "Persean League Enforcer",
+        "fleet_faction": "persean",
+        "fleet_flagship_variant": "pegasus_Strike",
+        "fleet_flagship_autofit": true,
+        "fleet_preset_ships": {
+            "gryphon_DEM": 2,
+            "champion_DEMEscort": 2
+        },
+        "fleet_preset_autofit": true,
+        "fleet_scaling_multiplier": 0.5,
+        "fleet_min_FP": 100,
+        "location_marketFactions": [
+            "independent"
+        ]
+    }
 }
