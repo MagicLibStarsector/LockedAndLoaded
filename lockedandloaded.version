@@ -1,10 +1,10 @@
 {
+  "modName": "Locked and Loaded",
   "masterVersionFile": "https://raw.githubusercontent.com/MagicLibStarsector/LockedAndLoaded/main/lockedandloaded.version",
   "directDownloadURL": "https://github.com/MagicLibStarsector/LockedAndLoaded/releases/latest/download/Locked-and-Loaded.zip",
-  "modName": "Locked and Loaded",
+  "changelogURL": "https://raw.githubusercontent.com/MagicLibStarsector/LockedAndLoaded/master/CHANGELOGS.md",
   "modThreadId": "23129",
   #"modNexusId": "10",
-  "directDownloadURL": "https://github.com/MagicLibStarsector/LockedAndLoaded/releases/download/0.13.0-rc3/Locked-and-Loaded-0.13.0-rc3.zip",
   "modVersion":
     {
       "major": "1",

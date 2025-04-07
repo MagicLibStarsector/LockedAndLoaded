@@ -1,14 +1,14 @@
 Locked and Loaded
 
-0.12.1
+# 0.12.1
 Fixed some bounties using the Neutral faction instead of ML_Bounty faction.
 
-0.12
+# 0.12
 
 Fixed yet another bunch of small mistakes such as typos in the factions or variants IDs.
 Some minor improvements to the bounty texts.
 
-0.11
+# 0.11
 
 [RC2]
 Fixed a typo in a ship variant.
@@ -22,14 +22,14 @@ Added:
 "tart_takeover"
 "tart_diversion"
 
-0.10
+# 0.10
 
 [RC2]
 Fixed some typos and missing elements (blacklists, variants etc)
 Added:
 "alexatheos_culann_scavs"
 
-Initial release:
+# Initial release:
 
 "tart_upstart"
 "tart_competition"
